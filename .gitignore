@@ -3,3 +3,4 @@
 /.idea/
 /.vscode/
 *.log
+/public/data/ku_boundaries.geojson
